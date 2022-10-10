@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  background-color: #333a;
+  font-family: sans-serif;
+  color: aliceblue;
+  text-align: center;
+}
+
+.flags-container {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flag {
+  display: inline-block;
+  width: 150px;
+  height: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid #fff;
+}
+
+.armenia {
+  background-image: linear-gradient(#d90011 35px, #0033a0 35px 65px, #f2a800 65px 100px);
+  /* colors: #d90011 #0033a0 #f2a800 */
+}
+
+.belgium {
+  background-image: linear-gradient(90deg,#000 50px, #fae042 50px 100px, #ed2939 100px 150px );
+  /* colors: #000 #fae042 #ed2939 */
+}
+
+.botswana {
+  background-image: linear-gradient(#75aadb 35px, #fff 35px 40px, #000 40px 60px, #fff 50px 65px,#75aadb 65px 100px);
+  /* colors: #75aadb #fff #000 */
+}
+
+.benim {
+  background-image: linear-gradient(90deg,#008751 40%,transparent 40%),
+  linear-gradient(0deg,#e8112d 50%,#fcd116 50%);
+  /* colors: #008751 #fcd116 #e8112d */
+}
+
+.congo {
+  background-image: linear-gradient(135deg,#009543 70px, #fbde4a 70px 105px ,#dc241f 105px 150px );
+  /* colors: #009543 #fbde4a #dc241f */
+}
+
+.seychelles {
+  background-image: linear-gradient(170deg, transparent 80%, #007a3d 0),
+  linear-gradient(160deg, transparent 65%, #fff 65%),
+  linear-gradient(140deg, transparent 45%, #d62828 45%),
+  linear-gradient(120deg, transparent 25%, #fcd856 25%);
+  background-color: #003f87;
+  /* colors: #007a3d #fff #d62828 #fcd856 #003f87 */
+}
