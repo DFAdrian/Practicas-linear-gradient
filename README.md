@@ -1,4 +1,4 @@
-# Practicas-linear-gradient
+# Building Flags with: -linear-gradient-
 
-PRACTICAS PARA RECORDAR
+PRACTICA PARA RECORDAR
 This is a note
